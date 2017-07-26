@@ -37,7 +37,9 @@ def main():
     for root, dirs, files in os.walk(os.getcwd()):
         for filename in files:
             if filename.endswith('.properties'):
-                props = ConfigObj(os.path.join(root, filename))
+                fn = os.path.join(root, filename)
+                print(fn)
+                props = ConfigObj(fn)
                 citType = props.get('type')
                 # print("null" if citType is None else citType)
                 if citType in ("item", "elytra", "enchantment"):
