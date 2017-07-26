@@ -8,7 +8,7 @@ after_script:
   
 stages:
   - test
-  - package
+  # - package
    
 test:
  stage: test
@@ -16,15 +16,15 @@ test:
    - echo "Testing started"
    - curl https://files.corecrafted.net/ci/test.py | python3 -
 
-package:
- stage: package
- artifacts:
-    paths:
-      - ./sem-resourcepack
- script:
-   - echo "Packaging files to artifact..."
-   - mkdir sem-resourcepack
-   - mv assets sem-resourcepack
-   - mv LICENSE sem-resourcepack
-   - mv pack.mcmeta sem-resourcepack
-   - mv pack.png sem-resourcepack
+# package:
+#  stage: package
+#  artifacts:
+#     paths:
+#       - ./sem-resourcepack
+#  script:
+#    - echo "Packaging files to artifact..."
+#    - mkdir sem-resourcepack
+#    - mv assets sem-resourcepack
+#    - mv LICENSE sem-resourcepack
+#    - mv pack.mcmeta sem-resourcepack
+#    - mv pack.png sem-resourcepack
