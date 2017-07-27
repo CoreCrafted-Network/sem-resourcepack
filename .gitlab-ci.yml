@@ -14,7 +14,8 @@ test:
  stage: test
  script: 
    - echo "Testing started"
-   - curl https://files.corecrafted.net/ci/test.py | python3 -
+#   - curl https://files.corecrafted.net/ci/test.py | python3 -
+   - echo "Testing Skipped for now"
 
 # package:
 #  stage: package
