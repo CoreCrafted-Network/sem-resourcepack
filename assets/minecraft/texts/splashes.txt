@@ -41,6 +41,7 @@ Doge! Doge! Doge!
 Now with extra radio wave
 You're attractive...I mean, you're massive
 F = G(Mm)/r^2
+<<<<<<< Updated upstream
 Hello from the other side!
 sudo get more jokes now
 It's not supercalifragilisticexpialidocious!
@@ -48,6 +49,9 @@ Speedy things go in, dead things go out
 Windows 10 FTW
 Where are you now?
 Kmax = E − ϕ = h(ƒ − ƒ0)
+=======
+Hello from the other side
+>>>>>>> Stashed changes
 We have absolutely NO DoS Protection
 Where are you now?
 Under the sea
