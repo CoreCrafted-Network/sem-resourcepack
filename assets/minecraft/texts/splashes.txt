@@ -1,18 +1,18 @@
-sigma(i = 1 to 10^12)
+﻿sigma(i = 1 to 10^12)
 Just for "Experts"
 Your face your fate!
-Excalibur !
 System.out.println("Hello World!");
 echo "Hello World!"
-169369
 369M H2SO4 solution
 Extra Energy
 Help! My spaghetti is on fire!
 Compressed Salted Fish
-*.corecrafted.net
 Primary chicken prohibited
 We don't have law department
-We don't have expansive cameras
+We don't have expensive cameras
+We do have DDoS protection
+We don't provide DoS protection
+We don't copy nVidia logo
 4/6/1989
 Slow delivery
 Atomic World
@@ -24,7 +24,6 @@ public static void main(String[] args)
 Final evacuation
 The place everyone had moved to
 skyblock?
-Cruel but sad reality
 Java: From entry to female costume
 Translate server error
 404 Splash Not Found
@@ -42,4 +41,9 @@ Doge! Doge! Doge!
 Now with extra radio wave
 You're attractive...I mean, you're massive
 F = G(Mm)/r^2
-Hello from the other side
+Hello from the other side!
+sudo get more jokes now
+It's not supercalifragilisticexpialidocious!
+Speedy things go in, dead things go out
+Windows 10 FTW
+Where are you now?
