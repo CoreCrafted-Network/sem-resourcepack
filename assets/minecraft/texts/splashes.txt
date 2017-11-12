@@ -16,7 +16,7 @@ We don't copy nVidia logo
 4/6/1989
 Slow delivery
 Atomic World
-Ero Manga Sensei
+エロマンガ先生
 $ cd ~
 Exclusive creations
 Mineceraft?
@@ -24,11 +24,11 @@ public static void main(String[] args)
 Final evacuation
 The place everyone had moved to
 skyblock?
-Java: From entry to female costume
+Java: 從入門到女裝
 Translate server error
 404 Splash Not Found
 502 Bill Gateway
-Dr. Crane! Wake up!! Launch the machine, NOW!!
+Dr. Crane, the machine is ready to initiate!
 It's a long way forward, so trust in me....
 I'll give them shelter like you've done for me
 This is an undesirable result
@@ -40,13 +40,13 @@ Doge! Doge! Doge!
 1.60217662 × 10^-19 C
 Now with extra radio wave
 You're attractive...I mean, you're massive
+Time goes slower when being with you
+In another word, you are fat
 F = G(Mm)/r^2
-<<<<<<< Updated upstream
 Hello from the other side!
-sudo get more jokes now
-It's not supercalifragilisticexpialidocious!
+$ sudo get more jokes now
+It's not supercalifragilisticexpialidocious enough
 Speedy thing goes in, dead thing comes out
-Windows 10 FTW
 Where are you now?
 Kmax = E − ϕ = h(ƒ − ƒ0)
 Hello from the other side
@@ -58,4 +58,5 @@ We are not a PRO Network
 2147483648
 299,792,458 m/s
 2B OR NOT 2B
-[null]
+You have 1/62 chance seeing this message
+[EOF]
